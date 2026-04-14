@@ -1,6 +1,6 @@
 Fill in the passphrases here.
 1.WongAvery
-2.iHateC++
+2.Scavenger Hunt
 3.HTMLRules
 4.JavaScriptRocks
 5.ShraviBeatsReact
